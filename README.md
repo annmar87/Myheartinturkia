@@ -1,8 +1,8 @@
 # **Mi corazon en Turkia**
+![Türkiye flag](https://upload.wikimedia.org/wikipedia/commons/0/0a/Turkey_flag.jpg "Türkiye")
 
 
-
-Vamos a comenzar este viaje maravilloso a este pais **Turkiye** o como se le llamada anteriormente **Turkia**.
+Vamos a comenzar este viaje maravilloso a este pais **Türkiye** o como se le llamada anteriormente **Turkia**.
 
 
 Comencemos con Estambul, una de las ciudades mas emblematicas de Turkia, ojo no es la capital, la cpaital de Turkia es Ankara, que coa eh, bueno seguimos en esto..., cuando llegues al aeropuerto asegurate de tener todos tus documentos, aqui te daremos unos pasos:
