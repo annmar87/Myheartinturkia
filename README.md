@@ -19,7 +19,7 @@ Empecemos por **Estambul**, una de las ciudades más emblemáticas de Turquía, 
 - Viajar con tu seguro, lo puedes hacer con https://www.iatiseguros.com, no importa tu nacionalidad Iati funciona para todos. También tienes la opción de poder elegir el tipo de cobertura de seguro que deseas desde la más sencilla hasta la más compleja.
 
 ### Lo mas barato en transporte, son los transporte publicos, ellos tienen:  
-(También puedes verificar en esta pagina,https://www.estambul.es/transporte)
+También puedes verificar en esta pagina,https://www.estambul.es/transporte
 
 1.Tranvía. El tranvía de Estambul es la forma más cómoda y económica de recorrer el centro histórico de la ciudad.
 2. Metro. 
