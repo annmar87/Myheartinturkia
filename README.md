@@ -21,7 +21,7 @@ Empecemos por **Estambul**, una de las ciudades más emblemáticas de Turquía, 
 ### Lo mas barato en transporte, son los transporte publicos, ellos tienen:  
 (También puedes verificar en esta pagina,https://www.estambul.es/transporte)
 
-1.Tranvía. El tranvía de Estambul es la forma más cómoda y económica de recorrer el centro histórico de la ciudad.
+1. Tranvía. El tranvía de Estambul es la forma más cómoda y económica de recorrer el centro histórico de la ciudad.
 2. Metro. 
 3. Funicular.
 4. Autobús.
